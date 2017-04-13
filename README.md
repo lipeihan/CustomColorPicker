@@ -32,7 +32,7 @@
 
 ### 高级使用方法，属性介绍
 
-![UsagePic5](/Users/pierce/GitHub/CustomColorPicker/UsagePic5.jpeg)
+![UsagePic5](UsagePic5.jpeg)
 
 **在ColorBoardView.h中有对每个属性的说明**
 
